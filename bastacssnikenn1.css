@@ -1,0 +1,83 @@
+.text{
+	text-align: center;
+	text-align: bottom;
+	border: 3px solid gray;
+	width: 400px;
+	border-radius: 30px;
+	background-color: antiquewhite;
+	opacity: 0.8;
+
+}
+body{
+	background-image: url('altai.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+table,tr,th,td{
+	border-width: 2px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 5px;
+}
+
+tbody{
+	background-color:  rgb(237, 237, 237);
+}
+
+thead{
+	background-color: rgb(237, 237, 237);
+}
+
+caption{
+	font-size: 1.2rem;
+}
+
+table{
+	display: inline-block;
+	margin: 130px;
+	background-color: lightblue;
+}
+
+.tbl1{
+	border: 3px solid gray;
+	border-radius: 50px;
+	background-color: rgb(216, 217, 207);
+	opacity: 0.8;
+}
+
+.lewisid{
+	font-family: courier;
+}
+
+caption{
+	font-size: 1.3rem;
+	font-family: san-serif;
+}
+button{
+	width: 8em;
+	height: 50px;
+	background-color: antiquewhite;
+	font-weight: bold;
+	cursor: pointer;
+	font-family: san-serif;
+	font-size: 1.4rem;
+	border-radius: 10px;
+	opacity: 0.5;
+	float: right;
+}
+button:hover{
+	background-color: lightblue;
+}
+a{
+	color: gray;
+}
+.ulo:hover{
+	background-color: lightblue;
+}
+h2,h1{
+	font-family: sans-serif;
+}
+tr,tr,td,th{
+	border: 2px solid black;
+}

@@ -1,0 +1,27 @@
+body{
+	text-align: left;
+	background-color: antiquewhite;
+}
+button{
+width: 10em;
+    height: 5ex;
+    background-color: antiquewhite;
+    font-weight: bold;
+    cursor: pointer;
+	font-family: san-serif;
+	font-size: 1rem;
+	border-radius: 10px;
+	opacity: 0.5;
+}
+button:hover{
+	background-color: lightblue;
+}
+a{
+	color: black;
+}
+.head{
+	float: center;
+}
+.heads{
+	border: none;
+}
